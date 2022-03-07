@@ -1,4 +1,6 @@
-# Projeto2
+#Botoões de mais e menos
+
+![imagem_2022-03-07_205612](https://user-images.githubusercontent.com/87918920/157138417-6e3768cb-7f15-4952-92b5-c64880f78278.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
